@@ -11,3 +11,6 @@ Codes for STPCA-DP, STPCA-MP and the experiments referring to "Sparse Tensor PCA
 
 %
 % % % Contact: {zhengjunjing21}@nudt.edu.cn % ---------------------------------------------------------------------
+
+!!!For unknown reason, the content of data can only be separately uploaded to the "master" branch. 
+!!!Please make sure you download that branch and put the files into the "data" folder in the "main" branch.
