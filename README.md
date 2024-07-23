@@ -14,3 +14,6 @@ Codes for STPCA-DP, STPCA-MP and the experiments referring to "Sparse Tensor PCA
 
 !!!For unknown reason, the content of data can only be separately uploaded to the "master" branch. 
 !!!Please make sure you download that branch and put the files into the "data" folder in the "main" branch.
+
+%% codes with keyword "main" or "Simulation" are scripts for experiments that conduct algorithms and compute metrics.
+%% One can simply click "run" in the above scripts to reproduce the experimental results.
