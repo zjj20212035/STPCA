@@ -7,7 +7,7 @@ Codes for STPCA-DP, STPCA-MP and the experiments referring to "Sparse Tensor PCA
 % shall not be used, rewritten, or adapted as the basis of a commercial 
 %software or hardware product without first obtaining permission of the % authors. The authors make no representations about the suitability of 
 % this software for any purpose. It is provided "as is" without express % or implied warranty. % ----------------------------------------------------------------------
-% % Please refer to the following paper Junjing Zheng, Xinyu Zhang, Weidong Jiang. Sparse Tensor PCA via Tensor Decomposition for Unsupervised Feature Selection. arXiv:2309.06202 [cs.CV] %
+% % Please refer to the following paper Junjing Zheng, Xinyu Zhang, Weidong Jiang. Sparse Tensor PCA via Tensor Decomposition for Unsupervised Feature Selection. arXiv:2407.16985 [cs.CV] %
 
 %
 % % % Contact: {zhengjunjing21}@nudt.edu.cn % ---------------------------------------------------------------------
