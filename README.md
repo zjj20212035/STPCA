@@ -82,3 +82,9 @@ run('exp_Figure7_visualization.m');
 
 Due to K-means's sensitivity to intialization, the reproduction results coudl be slightly different to the results in our paper but within a reasonable range.
 
+## Version
+```bash
+git clone https://github.com/zjj20212035/STPCA.git
+cd STPCA
+git checkout v1.0
+```
