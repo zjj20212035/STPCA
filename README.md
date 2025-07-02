@@ -80,7 +80,7 @@ run('exp_Figure7_visualization.m');
   - `N`: the repeated times of K-means
   - `NumFS`: the number of selected features
 
-Due to K-means's sensitivity to intialization, the reproduction results coudl be slightly different to the results in our paper but within a reasonable range.
+Due to K-means's sensitivity to intialization, the reproduction results could be slightly different to the results in our paper but within a reasonable range.
 
 ## Version
 ```bash
