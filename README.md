@@ -86,5 +86,5 @@ Due to K-means's sensitivity to intialization, the reproduction results could be
 ```bash
 git clone https://github.com/zjj20212035/STPCA.git
 cd STPCA
-git checkout v1.0
+git checkout v1.1
 ```
