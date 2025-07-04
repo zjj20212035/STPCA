@@ -24,6 +24,7 @@ struct.Dname = data_name;
 struct.data_tensor_based = tensor_based; % whether it is tensor data, contained in the loaded dataset
 struct.save_path = save_path;
 struct.tensor_size = tensor_size;% the size of a tensor sample, for non-tensor data, 'tensor size' should be a [nFea,1] vector.
+struct.N = 30; % the repeated times of k-means
 if tensor_based == 1
    struct.tensor_type = tensor_type; % the type of data tensor: "tube-wise" or "slice-wise"
 end

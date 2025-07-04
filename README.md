@@ -3,10 +3,19 @@ Author: Junjing Zheng
 
 Email: zjj20212035@163.com
 
-> **Paper**: [Orientation-Aware Sparse Tensor PCA for Efficient Unsupervised Feature Selection](arXiv Link) | **Authors**: [Junjing Zheng, Xinyu Zhang, Weidong Jiang, Xiangfeng Qiu, Mingjian Ren]
+> **Paper**: [Orientation-Aware Sparse Tensor PCA for Efficient Unsupervised Feature Selection](arXiv:2407.16985v3) | **Authors**: [Junjing Zheng, Xinyu Zhang, Weidong Jiang, Xiangfeng Qiu, Mingjian Ren]
 
  This code is for reproduction of Table 7 (Metrics of the comparative methods on real-world dataset) and Figure 7 (Visualization on PIE, JAFFE, and BreastMNIST) in our paper, which conducts unsupervised feature selection (UFS) and clustering.
-If you are going to using our code, please cite our paper with the following:
+To use this code, please cite our work as follows:
+@misc{zheng2025orientationawaresparsetensorpca,
+      title={Orientation-Aware Sparse Tensor PCA for Efficient Unsupervised Feature Selection}, 
+      author={Junjing Zheng and Xinyu Zhang and Weidong Jiang and Xiangfeng Qiu and Mingjian Ren},
+      year={2025},
+      eprint={2407.16985},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.16985}, 
+}
 
 ## Project Structure
 ```tree

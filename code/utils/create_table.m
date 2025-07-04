@@ -1,32 +1,32 @@
 %% summarize the result
 best_acc_PIE = result_STPCA_MP_PIE.best_acc_disp;
 best_nmi_PIE = result_STPCA_MP_PIE.best_nmi_disp;
-best_ss_PIE = result_STPCA_MP_PIE.ss_disp;
+best_ss_PIE = result_STPCA_MP_PIE.best_ss_disp;
 time_PIE = result_STPCA_MP_PIE.time_disp;
 
 best_acc_COIL20 = result_STPCA_MP_COIL20.best_acc_disp;
 best_nmi_COIL20 = result_STPCA_MP_COIL20.best_nmi_disp;
-best_ss_COIL20 = result_STPCA_MP_COIL20.ss_disp;
+best_ss_COIL20 = result_STPCA_MP_COIL20.best_ss_disp;
 time_COIL20 = result_STPCA_MP_COIL20.time_disp;
 
 best_acc_Imm40 = result_STPCA_MP_Imm40.best_acc_disp;
 best_nmi_Imm40 = result_STPCA_MP_Imm40.best_nmi_disp;
-best_ss_Imm40 = result_STPCA_MP_Imm40.ss_disp;
+best_ss_Imm40 = result_STPCA_MP_Imm40.best_ss_disp;
 time_Imm40 = result_STPCA_MP_Imm40.time_disp;
 
 best_acc_JAFFE = result_STPCA_MP_JAFFE.best_acc_disp;
 best_nmi_JAFFE = result_STPCA_MP_JAFFE.best_nmi_disp;
-best_ss_JAFFE = result_STPCA_MP_JAFFE.ss_disp;
+best_ss_JAFFE = result_STPCA_MP_JAFFE.best_ss_disp;
 time_JAFFE = result_STPCA_MP_JAFFE.time_disp;
 
 best_acc_USPS = result_STPCA_MP_USPS.best_acc_disp;
 best_nmi_USPS = result_STPCA_MP_USPS.best_nmi_disp;
-best_ss_USPS = result_STPCA_MP_USPS.ss_disp;
+best_ss_USPS = result_STPCA_MP_USPS.best_ss_disp;
 time_USPS = result_STPCA_MP_USPS.time_disp;
 
 best_acc_BreastMNIST = result_STPCA_MP_BreastMNIST.best_acc_disp;
 best_nmi_BreastMNIST = result_STPCA_MP_BreastMNIST.best_nmi_disp;
-best_ss_BreastMNIST = result_STPCA_MP_BreastMNIST.ss_disp;
+best_ss_BreastMNIST = result_STPCA_MP_BreastMNIST.best_ss_disp;
 time_BreastMNIST = result_STPCA_MP_BreastMNIST.time_disp;
 
 time_UCIDSA = result_STPCA_MP_UCIDSA.time_disp;
